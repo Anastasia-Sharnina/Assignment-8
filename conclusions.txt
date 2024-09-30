@@ -2,3 +2,5 @@
 
 2. The list elements contains various data types, including integers, strings, floats, booleans, list. 
  I finded the isinstance() function to check if each element is of type str. I used for loop to iterate through each element in the list, and the string_count variable is  incremented each time a string is found. 
+ 
+I've learned a few new functions in Python and practiced with the code, I think it will be useful in the future. Thank you very much! 
