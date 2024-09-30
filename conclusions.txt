@@ -1,0 +1,4 @@
+1. My code from 1 task uses a straightforward approach to sorting three integers without complex constructs. Each if statement indicates the condition being checked step by step. While this method works well for exactly three integers, it is not scalable for larger datasets. For larger collections of numbers, more complex algorithms would be necessary.
+
+2. The list elements contains various data types, including integers, strings, floats, booleans, list. 
+ I finded the isinstance() function to check if each element is of type str. I used for loop to iterate through each element in the list, and the string_count variable is  incremented each time a string is found. 
